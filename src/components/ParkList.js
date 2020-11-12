@@ -41,7 +41,7 @@ const ParkList = (props) => {
                 <Link to={`/listing/${park.id}`}>{park["park"]}</Link>
               </TableCell>
               <TableCell>{park["address"]}</TableCell>
-              <TableCell>{park["address"]}</TableCell>
+              <TableCell>{park["hours"]}</TableCell>
               <TableCell>{park["available"]}</TableCell>
             </TableRow>
           ))}
