@@ -1,0 +1,56 @@
+{
+  "name": "parks",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "cookie": "^0.4.1",
+    "express": "^4.17.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-redux": "^7.2.1",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.3",
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "description": "Current Trello : https://trello.com/b/4wqa6mPL/final-proj Wireframe: https://wireframepro.mockflow.com/editor.jsp?editor=on&publicid=M937143b838d48fab9012657493a8a75c1600787835709&perm=Create&projectid=Meb721d64414dfa008b9f63a806622d9a1600787901296&ptitle=Finale&bgcolor=white&category=materialdesignweb1#/page/D5f5d2afd06cadeb00e86e97b3009375b",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evantwidwell/ParksReservationApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evantwidwell/ParksReservationApp/issues"
+  },
+  "homepage": "https://github.com/evantwidwell/ParksReservationApp#readme"
+}
